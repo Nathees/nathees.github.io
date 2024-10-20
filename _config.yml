@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Natheesan Ratnasegar"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Natheesan"
 description              : &description "personal description"
 url                      : https://nathees.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/nathees.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Natheesan Ratnasegar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate in CS at Stony Brook University"
+  location         : "New York, USA"
+  employer         : "Stony Brook University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nratnasegar@cs.stonybrrok.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
